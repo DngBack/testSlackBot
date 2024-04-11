@@ -5,3 +5,7 @@ python-dotenv
 flask
 slack_sdk
 pathlib
+torch 
+pillow
+diffusers
+opencv-python
